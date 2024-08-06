@@ -1,2 +1,4 @@
 # CS361Sprint2
 A python implementation of the microservice I created for my teammate.
+To access this automatic pop up, there must be a user inside user.txt, it will automatically pop up as long as that is not empty.
+Not only will it display the message, it will also save the message into a txt called button.txt which you can use to temporarily, or permanently display the information.
