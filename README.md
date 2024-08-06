@@ -2,3 +2,7 @@
 A python implementation of the microservice I created for my teammate.
 To access this automatic pop up, there must be a user inside user.txt, it will automatically pop up as long as that is not empty.
 Not only will it display the message, it will also save the message into a txt called button.txt which you can use to temporarily, or permanently display the information.
+
+UML to describe how to recieve and send data using this
+
+![image](https://github.com/user-attachments/assets/6e9d724b-3dbc-4fb6-91b3-467138f7b51f)
