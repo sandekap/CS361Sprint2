@@ -7,3 +7,7 @@ UML to describe how to recieve and send data using this
 
 ![image](https://github.com/user-attachments/assets/0bc71246-df58-4c97-9010-2bbab6a007fb)
 
+Group Rules
+
+![image](https://github.com/user-attachments/assets/4e60ee09-3c6f-42ce-8fa2-5d600a3e08a1)
+
